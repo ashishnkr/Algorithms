@@ -1,2 +1,2 @@
 # Algorithms
- Various Algorithms Implementation
+ Various Algorithms Implementation in C# using Visual Studio
